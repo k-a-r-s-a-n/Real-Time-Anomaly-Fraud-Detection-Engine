@@ -1,0 +1,11 @@
+psycopg2-binary
+sqlalchemy
+streamlit
+qdrant-client
+scikit-learn
+pandas
+numpy
+faker
+fastapi
+uvicorn
+matplotlib
