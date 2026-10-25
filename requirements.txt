@@ -9,3 +9,4 @@ faker
 fastapi
 uvicorn
 matplotlib
+requests
